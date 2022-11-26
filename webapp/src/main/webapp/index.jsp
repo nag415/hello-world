@@ -8,6 +8,11 @@
     <input type="text" placeholder="Enter The First Name" name="email" id="email" required>
     <br>
 
+    <label for="email"><b>Enter The Second Name</b></label>
+    <input type="text" placeholder="Enter The Second Name" name="email" id="email" required>
+    <br>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br> 
