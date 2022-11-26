@@ -1,11 +1,15 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register</h1>
+    <h1>New User Registration</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
     <label for="email"><b>Enter The First Name</b></label>
     <input type="text" placeholder="Enter The First Name" name="email" id="email" required>
+    <br>
+
+    <label for="email"><b>Enter The Middle Name</b></label>
+    <input type="text" placeholder="Enter The Middle Name" name="email" id="email" required>
     <br>
 
     <label for="email"><b>Enter The Second Name</b></label>
