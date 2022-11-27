@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter The Middle Name" name="email" id="email" required>
     <br>
 
-    <label for="email"><b>Enter The last Name</b></label>
+    <label for="email"><b>Enter The Last Name</b></label>
     <input type="text" placeholder="Enter The Second Name" name="email" id="email" required>
     <br>
 
